@@ -1,5 +1,3 @@
-
-
 export const newsByCategory = () =>
   fetch(
     "https://newsapi.org/v2/top-headlines?country=us&apiKey=d958b72590774683af46819760963ff2",
