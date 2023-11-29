@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.display-none{
+    display: none;
+}
+.display-inline{
+    display: inline-flex;
+    align-items: center;
+
+}
+
+.header{
+    height:80px;
+    display :flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#0000ff;
+    padding:16px;
+    
+}
